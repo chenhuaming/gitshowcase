@@ -1,7 +1,4 @@
 ddf
-<<<<<<< HEAD
 df
-=======
 dff
->>>>>>> devo
 dfdf
